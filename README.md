@@ -1,10 +1,5 @@
 # Record Manager
 
-## Contribution
-1. **Table, Attribute, User Interface for table CRUD and Record Manager Functions:** Manju
-2. **Record Functions:** Rupa
-3. **Scan Functions:** Vanaja
-4. **Schema Functions:** Mohit
 
 ## Running the Script
 
